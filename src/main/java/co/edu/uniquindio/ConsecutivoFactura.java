@@ -1,4 +1,8 @@
 package co.edu.uniquindio;
+import java.util.Set;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.atomic.AtomicInteger;
+
 
 public class ConsecutivoFactura {
 
