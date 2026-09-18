@@ -1,6 +1,6 @@
 # Ejercicio 3 — Análisis
 
-**Integrantes:** Miguel Angel Montenegro Sepulveda y Sephiroth Leonardo Mota Arismendi
+**Integrantes:** Miguel Angel Montenegro Sepulveda, Sephiroth Leonardo Mota Arismendi, Javier Jair Portela Astudillo
 
 ## a) ¿Cuál es la limitación de Singleton frente a DIP, y cómo se resuelve?
 
